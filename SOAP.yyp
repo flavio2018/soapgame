@@ -1,5 +1,5 @@
 {
-  "$GMProject":"",
+  "$GMProject":"v1",
   "%Name":"SOAP",
   "AudioGroups":[
     {"$GMAudioGroup":"","%Name":"audiogroup_default","name":"audiogroup_default","resourceType":"GMAudioGroup","resourceVersion":"2.0","targets":-1,},
@@ -26,17 +26,21 @@
     {"$GMFolder":"","%Name":"Tileset","folderPath":"folders/Tileset.yy","name":"Tileset","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Timeline","folderPath":"folders/Timeline.yy","name":"Timeline","resourceType":"GMFolder","resourceVersion":"2.0",},
   ],
+  "ForcedPrefabProjectReferences":[],
   "IncludedFiles":[],
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.4.1.152",
+    "IDEVersion":"2024.1300.0.720",
   },
   "name":"SOAP",
   "resources":[
+    {"id":{"name":"CollisionObject","path":"objects/CollisionObject/CollisionObject.yy",},},
+    {"id":{"name":"Controller","path":"objects/Controller/Controller.yy",},},
     {"id":{"name":"Object1","path":"objects/Object1/Object1.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"BOLLA","path":"sprites/BOLLA/BOLLA.yy",},},
+    {"id":{"name":"test","path":"sprites/test/test.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",

@@ -1,13 +1,12 @@
 {
   "$GMObject":"",
-  "%Name":"Object1",
+  "%Name":"CollisionObject",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"Object1",
+  "name":"CollisionObject",
   "overriddenProperties":[],
   "parent":{
     "name":"Oggetti",
@@ -32,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"BOLLA",
-    "path":"sprites/BOLLA/BOLLA.yy",
+    "name":"test",
+    "path":"sprites/test/test.yy",
   },
   "spriteMaskId":null,
   "visible":true,
