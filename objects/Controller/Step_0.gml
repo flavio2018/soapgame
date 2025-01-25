@@ -1,1 +1,3 @@
-time_score++;
+if not game_over {
+	time_score++;
+}
